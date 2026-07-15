@@ -17,6 +17,7 @@
   Course Owner    Abhrangshu Das
   Prerequisites   Programming Fundamentals, Problem Solving
   Co-requisites   None
+  Office Hours    8:30am to 4:30pm
 
 ## 2. Course Description & Rationale
 
